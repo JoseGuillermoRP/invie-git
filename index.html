@@ -14,10 +14,22 @@
             max-width: 100%;
             vertical-align: top;
         }
+        img#responsive{
+    display:none;
+}
+        @media screen and (max-width:768px){
+img#responsive{
+    display: block;
+}
+img{
+    display: none;
+}
+        }
     </style>
 </head>
 
 <body>
+    <img src="imagenes/responsive.png" alt="" id="responsive">
     <img src="imagenes/Captura.jpg" alt="">
     <img src="imagenes/hero.jpg" alt="">
     <img src="imagenes/acustica.jpg" alt="">
