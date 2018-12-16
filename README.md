@@ -1,2 +1,4 @@
-# invie-git
-lalrlsldsasd by @tarea
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
